@@ -11,6 +11,7 @@
 - Yohann Pech
 - Mathéo Chahwan
 - Norig Ciserani
+- Mohamadou-eddaly Kebe
 
 ### Team 3
 - Corentin DUPEIGNE
