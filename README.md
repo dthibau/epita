@@ -86,6 +86,8 @@ PDF fourni par mail, Gitlab à venir
 - Aurélien HURAND
 - Quentin DUMONT
 
+github : https://github.com/DemoxDev/projet-fullstack-epita-s8
+
 ### Team GeoGuesser
 - Marie-Lou ALLAIN
 - Naim CHEFIRAT
