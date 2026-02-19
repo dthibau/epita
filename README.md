@@ -111,6 +111,8 @@ github : https://github.com/DemoxDev/projet-fullstack-epita-s8
 - Francois Duguay: <francois.duguay@epita.fr>
 - Jesy Crouvisier: <jesy.crousivier@epita.fr>
 
+  https://github.com/SunnyBara/Projet_full_stack_epita
+
 ### Team SONORA 
 - Rachel Digna
 - Aida Goumble
