@@ -29,7 +29,8 @@ Dépôt : https://github.com/Angular-EPITA
 - Yassine Azzouz
 - Selim Barka
 - Achraf Chawki
-PDF : Gitlab EPITA, github à venir
+PDF :
+https://github.com/selimbarka/GameTrade
 
 ### Team  5
 - Medjedoub Lyna
