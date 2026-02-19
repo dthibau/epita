@@ -30,3 +30,8 @@
 - Serrano Amina
 - Ouffa Rawane
 - Kaettou Hajar
+
+### Team 6
+- Coedo Quentin
+- Olivier Bensemhoun
+- Lara Ho Chouck Foune
