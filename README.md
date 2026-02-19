@@ -29,7 +29,7 @@ Dépôt : https://github.com/Angular-EPITA
 - Yassine Azzouz
 - Selim Barka
 - Achraf Chawki
-PDF :
+
 https://github.com/selimbarka/GameTrade
 
 ### Team  5
@@ -39,7 +39,7 @@ https://github.com/selimbarka/GameTrade
 - Ouffa Rawane
 - Kaettou Hajar
 
-Github : https://github.com/hajar-khettou/Fullstack-project
+https://github.com/hajar-khettou/Fullstack-project
 
 ### Team 6 APPING2
 - Coedo Quentin
@@ -73,6 +73,7 @@ PDF fourni par mail, Gitlab à venir
 - Koudri Nadir
 - Drieux Arthur 
 - Zheng Yicheng
+https://github.com/DOOMGAP/Cristaline
 
 ### Team GRAY 
 - Ghadi Yammine
