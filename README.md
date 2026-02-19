@@ -103,8 +103,16 @@ github : https://github.com/DemoxDev/projet-fullstack-epita-s8
   Github : https://github.com/Yasminisasleep/Eastern-Bloc
 
 # Team SRVF
-Sunny Soyer: <sunny.soyer@epita.fr>
-Romain Vidal: <romain1.vidal@epita.fr>
-Vanelle-Ivanna Tchouka: < vanelle-ivanna.tchouka@epita.fr>
-Francois Duguay: <francois.duguay@epita.fr>
-Jesy Crouvisier: <jesy.crousivier@epita.fr>
+- Sunny Soyer: <sunny.soyer@epita.fr>
+- Romain Vidal: <romain1.vidal@epita.fr>
+- Vanelle-Ivanna Tchouka: < vanelle-ivanna.tchouka@epita.fr>
+- Francois Duguay: <francois.duguay@epita.fr>
+- Jesy Crouvisier: <jesy.crousivier@epita.fr>
+
+### Team SONORA 
+- Rachel Digna
+- Aida Goumble
+- Clara Sion-Saunier
+- Eva Doumbe-Ngangue.
+
+  https://github.com/Clara1505/sonora
