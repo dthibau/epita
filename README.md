@@ -35,3 +35,13 @@
 - Coedo Quentin
 - Olivier Bensemhoun
 - Lara Ho Chouck Foune
+
+### Team MASTER GAME
+- Kapata Ngankam Darlin Canis 
+- Tsafack Nguemegne Ninon Carmène 
+- Baste Rodrigue
+
+### Team Kōen
+- Manaïa LOGOLOGOFOLAU
+- Bryan PHAN NGUYEN
+- Rayann BOUHEDDOU
