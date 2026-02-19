@@ -2,7 +2,7 @@
 
 ## Groupe 1
 
-## DEV1 / Team IMGB
+### DEV1 / Team IMGB
 - Paul MONTAGNAC
 - Corentin ALLALOU
 - Esteban PAGIS
@@ -68,7 +68,7 @@ PDF fourni par mail, Gitlab à venir
 
 ## Groupe 2
 
- ### Team Cristaline:
+### Team Cristaline:
 - Koudri Nadir
 - Drieux Arthur 
 - Zheng Yicheng
