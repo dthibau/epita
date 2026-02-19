@@ -73,11 +73,6 @@ PDF fourni par mail, Gitlab à venir
 - Drieux Arthur 
 - Zheng Yicheng
 
-### Team Cristaline:
-- Koudri Nadir
-- Drieux Arthur 
-- Zheng Yicheng
-
 ### Team GRAY 
 - Ghadi Yammine
 - Roman Morliere
