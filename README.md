@@ -1,5 +1,6 @@
 # Equipes :
 
+## Groupe 1
 
 ## DEV1 / Team IMGB
 - Paul MONTAGNAC
@@ -24,11 +25,11 @@ Dépôt : https://github.com/Angular-EPITA
 - Jules LADAIGUE
 - Adrien DEU.
 
-### Team DEVPLAY
+### Team : GameTrade
 - Yassine Azzouz
 - Selim Barka
 - Achraf Chawki
-PDF : Gitlab EPITA à voir ...
+PDF : Gitlab EPITA, github à venir
 
 ### Team  5
 - Medjedoub Lyna
@@ -36,7 +37,6 @@ PDF : Gitlab EPITA à voir ...
 - Serrano Amina
 - Ouffa Rawane
 - Kaettou Hajar
-
 
 Github : https://github.com/hajar-khettou/Fullstack-project
 
@@ -46,6 +46,7 @@ Github : https://github.com/hajar-khettou/Fullstack-project
 - Lara Ho Chouck Foune
 
   Doc conception : https://docs.google.com/document/d/1Y60cSEtxyhLlA9rLCf_bglA4Kk-Wn2MIzOF-gXM3AMA/edit?usp=sharing
+  Github : https://github.com/Ostro55/didactic-octo-fishstick-vapeur
   
 ### Team MASTER GAME
 - Kapata Ngankam Darlin Canis
@@ -63,3 +64,44 @@ PDF fourni par mail, Gitlab à venir
 
  Conception : https://www.notion.so/Projet-FullStack-931c4cf59eb082a692a7015249cbb948
  Invitation : Github à venir
+
+
+## Groupe 2
+
+ ### Team Cristaline:
+- Koudri Nadir
+- Drieux Arthur 
+- Zheng Yicheng
+
+### Team Cristaline:
+- Koudri Nadir
+- Drieux Arthur 
+- Zheng Yicheng
+
+### Team GRAY 
+- Ghadi Yammine
+- Roman Morliere
+- Antoine Ganeau
+- Yahya Hijazi
+
+### Team LVC
+- Axel MARAL
+- Onur GENC
+- Cristian MESINA
+- Aurélien HURAND
+- Quentin DUMONT
+
+### Team GeoGuesser
+- Marie-Lou ALLAIN
+- Naim CHEFIRAT
+- Robin VIDAL
+- Michael ROUSSEAU
+
+### Team Bloc de l'EST
+- BENALI Yasmine
+- LAYAIDA Samy
+- KHVATOVA Maria
+- CORMORANT Baptiste
+  
+  Github : https://github.com/Yasminisasleep/Eastern-Bloc
+
