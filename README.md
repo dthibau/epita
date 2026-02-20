@@ -73,6 +73,7 @@ PDF fourni par mail, Gitlab à venir
 - Koudri Nadir
 - Drieux Arthur 
 - Zheng Yicheng
+- Alexandre Leclaire
 https://github.com/DOOMGAP/Cristaline
 
 ### Team GRAY 
