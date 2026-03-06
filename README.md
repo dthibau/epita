@@ -10,6 +10,7 @@ JIRA : https://epita-team-hktq2p0w.atlassian.net/jira/software/projects/KAN/page
 Dépôt : https://github.com/Angular-EPITA
 
 #### Team 3 : Corentin DUPEIGNE, Nhat-Linh NGUYEN, Jules LADAIGUE, *Adrien DEU*.
+Dépôt : https://github.com/Juicyyyyyyy/condensation
 
 #### Team GameTrade : Yassine Azzouz, *Selim Barka*, Achraf Chawki
 https://github.com/selimbarka/GameTrade
