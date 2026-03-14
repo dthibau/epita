@@ -44,7 +44,7 @@ Lara HO CHOUCK FOUNE <lara.ho-chouck-foune@epita.fr>, Quentin COEDO <quentin.coe
 #### Team MASTER GAME : Kapata Ngankam Darlin Canis, *Tsafack Nguemegne Ninon Carmène*, Baste Rodrigue, Dorismond Samuel 
 PDF fourni par mail
 
-https://www.gitlab.basteproductions.fr/epita_dev/fullstack
+https://gitlab.basteproductions.fr/epita_dev_1/fullstack
 
 Samuel DORISMOND <samuel.dorismond@epita.fr>, Darlin Canis KAPATA NGANKAM <darlin-canis.kapata-ngankam@epita.fr>, Rodrigue BASTE <rodrigue.baste@epita.fr>, Ninon Carmène TSAFACK NGUEMEGNE <ninon-carmene.tsafack-nguemegne@epita.fr>,
 
