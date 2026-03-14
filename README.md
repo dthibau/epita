@@ -42,7 +42,9 @@ Github : https://github.com/Ostro55/didactic-octo-fishstick-vapeur
 Lara HO CHOUCK FOUNE <lara.ho-chouck-foune@epita.fr>, Quentin COEDO <quentin.coedo@epita.fr>, Olivier BENSEMHOUN <olivier.bensemhoun@epita.fr>,
 
 #### Team MASTER GAME : Kapata Ngankam Darlin Canis, *Tsafack Nguemegne Ninon Carmène*, Baste Rodrigue, Dorismond Samuel 
-PDF fourni par mail, Gitlab à venir
+PDF fourni par mail
+
+https://www.gitlab.basteproductions.fr/epita_dev/fullstack
 
 Samuel DORISMOND <samuel.dorismond@epita.fr>, Darlin Canis KAPATA NGANKAM <darlin-canis.kapata-ngankam@epita.fr>, Rodrigue BASTE <rodrigue.baste@epita.fr>, Ninon Carmène TSAFACK NGUEMEGNE <ninon-carmene.tsafack-nguemegne@epita.fr>,
 
