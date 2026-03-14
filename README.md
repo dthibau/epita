@@ -46,7 +46,7 @@ Samuel DORISMOND <samuel.dorismond@epita.fr>, Darlin Canis KAPATA NGANKAM <darli
 
 #### Team Kōen : *Manaïa LOGOLOGOFOLAU*, Bryan PHAN NGUYEN, Rayann BOUHEDDOU, 
  Conception : https://www.notion.so/Projet-FullStack-931c4cf59eb082a692a7015249cbb948
- Invitation : Github à venir
+ https://github.com/BryyPN/Koen
 
  Rayann BOUHEDDOU <rayann.bouheddou@epita.fr>, Manaïa LOGOLOGOFOLAU <manaia.logologofolau@epita.fr>, Bryan PHAN NGUYEN <bryan.phan-nguyen@epita.fr>,
 
