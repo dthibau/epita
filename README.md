@@ -10,6 +10,8 @@ Audrey Karla TENTO TENTO <audrey-karla.tento-tento@epita.fr>
 #### Team IMGB : *Paul MONTAGNAC*, Corentin ALLALOU, Esteban PAGIS
 Doc de conception : https://docs.google.com/document/d/1ZgMXTEf-siv1LMUE6TuTPxHQyCv03lNK57XJs5fjfXk/edit?usp=sharing
 
+https://gitlab.com/etherhumcorp/imgb.
+
 Paul MONTAGNAC <paul.montagnac@epita.fr>, Corentin GUINIOT ALLALOU <corentin.allalou@epita.fr>, Esteban PAGIS <esteban.pagis@epita.fr>
 
 #### Team ANGULAR : Yohann Pech, Mathéo Chahwan, *Norig Ciserani*, Mohamadou-eddaly Kebe
