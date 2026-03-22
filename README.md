@@ -35,7 +35,7 @@ https://github.com/hajar-khettou/Fullstack-project
 
 Rawane OUFFA <rawane.ouffa@epita.fr>, Christina LOPES <christina.lopes@epita.fr>, Lyna MEDJEDOUB <lyna.medjedoub@epita.fr>, Amina SERRANO <amina.serrano@epita.fr>, Hajar KHETTOU <hajar.khettou@epita.fr>,
 
-#### Team 6 : Coedo Quentin, Olivier Bensemhoun, Lara Ho Chouck Foune
+#### Team 6 VAPEUR : Coedo Quentin, Olivier Bensemhoun, Lara Ho Chouck Foune
 Doc conception : https://docs.google.com/document/d/1Y60cSEtxyhLlA9rLCf_bglA4Kk-Wn2MIzOF-gXM3AMA/edit?usp=sharing
 Github : https://github.com/Ostro55/didactic-octo-fishstick-vapeur
 
