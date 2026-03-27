@@ -63,6 +63,10 @@ Yicheng ZHENG <yicheng.zheng@epita.fr>, nadir.koudri@epita.fr, Alexandre LECLAIR
 
 #### Team GRAY : *Ghadi Yammine*, Roman Morliere, Antoine Ganeau, Yahya Hijazi
 
+Frontend: https://github.com/ic3scream/singify-front.git
+
+Backend: https://github.com/Ghadi989/singify-back.git
+
 Antoine GANEAU <antoine.ganeau@epita.fr>, Roman MORLIERE <roman.morliere@epita.fr>, Yahya HIJAZI <yahya.hijazi@epita.fr>, ghadi.yammine@epita.fr,
 
 #### Team LVC : Axel MARAL, Onur GENC, Cristian MESINA, Aurélien HURAND, *Quentin DUMONT*
