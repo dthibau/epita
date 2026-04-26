@@ -1,0 +1,28 @@
+Nouveau projet à évaluer.
+
+Chemin du dépôt : ./epita-projects/27-sonora/
+Préfixe SonarQube : equipe-XX (il peut y avoir plusieurs sous-projets 
+Sonar, détecte-les en début de session)
+Nom à utiliser pour la feuille Excel : Notation_EquipeXX
+
+Procède ainsi :
+
+1. Exploration rapide du dépôt (structure, stack, LOC, commits) ET 
+   détection des projets SonarQube liés à cette équipe via leur préfixe. 
+   Présente-moi un résumé en 10 lignes max, avec la liste des projets 
+   Sonar trouvés.
+
+2. Un critère à la fois, dans l'ordre de la grille : constat, 
+   rapprochement avec les paliers, proposition de note justifiée, 
+   puis tu attends ma validation.
+   Pour Qualité du code et Sécurité, combine les données des différents 
+   projets Sonar comme indiqué dans le CLAUDE.md.
+
+3. Tableau récapitulatif à la fin.
+
+4. Écriture dans l'Excel uniquement sur ma demande explicite.
+
+Règles : aucune commande destructive, pas de modification du projet, 
+demande avant de lancer les tests.
+
+Démarre par l'étape 1.

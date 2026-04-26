@@ -1,0 +1,125 @@
+Le projet du point de vue fonctionnel : 1 slide max
+- L'architecture technique argumentée avec comme passage obligé l'argumentation de Kafka
+- L'organisation de l'équipe (responsabilité de chacun, workflow de collaboration)
+- La pipeline CI/CD avec les artefacts produits (exécutable, rapport qualité, cve, etc ...)
+- Une démonstration du produit
+- Une conclusion sur les choses à améliorer pour le milestone suivant éventuel.
+Team 15
+-------
+Recherche : Quelle technique ? Pagination, tri - Comme cela vient 
+RBAC ? A quelle niveau - 
+Basic Auth , ou est stocké l'authentification / sécurité stateful
+Kafka : Asynchronisme par rapport au rpc, Configuration et création du topic
+Avec vous Géré le CORS :
+Notifications lors du woirkflow
+Import BGG / 
+Décrire les étapes de CI / CD 
+
+Team 22 Gray
+------------
+Signify 
+
+IA en interne quel LLM / API ? 
+Flux audio de traitement Kafka
+Dév. Front End / Backend : Merge avec conflits
+Audio player (lib Javascript)
+Recherche API You Tube,  
+Kafka Modèle Request/Response : 
+Google Storage en cache 
+Commande de healthcheck Kafka
+Ou est implémenté le seuil d'échec de la couverture 
+Gestion du semver
+CI/CD Front
+RAILWAY 
+
+Team 23
+-------
+Token Relay ?
+Topics 3 partition, à quoi cela sert 
+auction.created, auction.status.changed pour quoi pas 1 topic
+Tests front end ? Unitaire 
+Réutilisation de composants / vraiment utilisé dans l'appli
+Coverage bas fait échoué la pipeline  : 
+Jeux de données initialisées ?
+
+Team 24
+-------
+Gatway implémenter, Routing via config / composition d'api / token relay / (secret)  / Backend protégé  
+Topic : Traitement des exception
+Scoring : Garantie EOS ? 
+Redis scalable ??
+FrontEnd : /  
+
+Taille micro-services
+
+Team 25
+-------
+Good Pitch (scrum master)
+Filtre sur localisation 
+Import API Ticket Master : Flot de message Kafka : Traitement
+Topic : Matching : Traitement sur réception de préf.
+Test containers dans la CI
+e2end avec l'application déployée. 
+CORS ?
+
+Team 26 
+-------
+Moyen ( ) 
+Sprint Review ?
+Analyse Sonarqube avec SonarCloud
+Couverture obtenue, failed avec un seuil 
+Topic Websocket / FrontEnd (Configuration )
+Exposer JPA ou DTO
+Sécurité dans UI
+
+Team Sonora
+-----------
+Bon Speech / un  peu scolaire
+track.played (il y a une clé) 
+track.imported (Que contient le message) 
+Play History tous les évènements ?
+Sécurité JWT
+Tests à la fin n'ont pas posé de problème
+Recherche full text, pagination, tri
+IA 
+
+Team IMGB
+---------
+Bannissement ? 
+Topic (Sur CRUD) : Quel Pattern 
+tests e2e sur appli déployée ?oui
+
+Team Angular
+-----------
+Modulaire pourquoi 
+Flux synchrone ? Pas exactement cela 
+Intégration SpringSecurity BD / (UserDetailsService ?)
+Refresh Token validé comment côté backendoui
+DLT comment elle est gérée (manuellement, test) 
+16 
+
+Team 3 Condensation 
+-------------------
+Tests de scalabilité ?
+UX Design ++
+Intercepteur sur le package service pour logger dans kafka toutr ce qui rentre tout ce qui sort
+
+Team GameTrade
+--------------
+
+Topic ListingEvent Producer / Consumer
+CORS
+
+Team 15 : Cristalline
+---------------------
+Bonne présentation
+
+
+
+ 
+
+
+
+
+
+
